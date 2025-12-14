@@ -16,7 +16,7 @@ JSONPlaceholder API'sinden alınan örnek "post" verilerini kullanarak simüle e
    # Mac/Linux için:
    source venv/bin/activate
 
-![](resim-1.png)
-![](resim-2.png)
-![](resim-3.png)
-![](resim-4.png)
+![](images/resim-1.png)
+![](images/resim-2.png)
+![](images/resim-3.png)
+![](images/resim-4.png)
